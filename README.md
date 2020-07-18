@@ -8,8 +8,3 @@ _My research interest spans over a variety of areas like Machine learning, Reinf
 ### Updates 
 
 _Currently, I am waiting to join my master's program in Robotics at University of Bristol, UK._
-
-
-
-
-
