@@ -5,6 +5,6 @@ _Occasionally, I write songs and compose by striking random chords on my guitar 
 
 _My research interest spans over a variety of areas like Machine learning, Reinforcement learning, Robotics, Computer vision etc._
 
-### Updates 
 
-_Currently, I am waiting to join my master's program in Robotics at University of Bristol, UK._
+
+
