@@ -8,7 +8,7 @@ _My research interest spans over a variety of areas like Machine learning, Reinf
 _Currently, I am learning Go._
 
 
-[![Adwait's github stats](https://github-readme-stats.vercel.app/api?username=addy1997)](https://github.com/anuraghazra/github-readme-stats)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addy1997)](https://github.com/anuraghazra/github-readme-stats)
+[![Adwait's github stats](https://github-readme-stats.vercel.app/api?username=addy1997)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addy1997)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
