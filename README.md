@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I am Adwait. 
+I am Adwait. Welcome to my profile !
 
-Currently, I am working on autonomous drones. My research interests include Robotics and Reinforcement learning. When I am not working, I like solving puzzles, watching thriller movies.
+
 
 
 
