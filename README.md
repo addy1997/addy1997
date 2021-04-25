@@ -2,7 +2,7 @@
 
 I am Adwait. Welcome to my profile !
 
-![ascii-man](https://github.com/addy1997/addy1997/blob/master/ezgif.com-gif-maker.gif)
+
 
 
 
