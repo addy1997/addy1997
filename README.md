@@ -4,32 +4,12 @@ I am Adwait. Welcome to my profile !
 
 * Currently, I am working from (🏠) on developing software for autonomous drones deployed in agriculture industry. 
 
-<p align="left">
+<p> 
 <a href="https://github.com/golang/go" rel="Golang"><img src="https://github.com/addy1997/addy1997/blob/master/1.png"/></a>
-</p>
-
-
-<p align="left">
 <a href="http://gazebosim.org/"rel="Gazebo"><img src="https://github.com/addy1997/addy1997/blob/master/2.png"/></a>
-</p>
-
-
-<p align="left">
 <a href="https://github.com/openai/gym"rel="Open-AI Gym"><img src="https://github.com/addy1997/addy1997/blob/master/4.png"/></a>
-</p>
-
-
-<p align="left">
 <a href="https://github.com/ignitionrobotics/ign-gazebo"rel="Ignition Gazebo"><img src="https://github.com/addy1997/addy1997/blob/master/3.png"/></a>
-</p>
-
-
-<p align="left">
 <a href="https://github.com/PointCloudLibrary/pcl"rel="Point Cloud Library"><img src="https://github.com/addy1997/addy1997/blob/master/5.png"/></a>
-</p>
-
-
-<p align="left">
 <a href="https://github.com/flexible-collision-library/fcl"rel="Flexible Collision Library"><img src="https://github.com/addy1997/addy1997/blob/master/6.png"/></a>
 </p>
 
