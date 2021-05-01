@@ -3,6 +3,7 @@
 I am Adwait. Welcome to my profile !
 
 * Currently, I am working from (🏠) on developing software for autonomous drones deployed in agriculture industry. 
+* Also, I am actively learning and contributing to some of these projects.
 
 <p> 
 <a href="https://github.com/golang/go" rel="Golang"><img src="https://github.com/addy1997/addy1997/blob/master/1.png"/></a>
