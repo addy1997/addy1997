@@ -3,7 +3,7 @@
 I am Adwait. Welcome to my profile !
 
 * Currently, I am working from (🏠) on developing software for autonomous drones deployed in agriculture industry. 
-* Previously, I have worked at [HTIC(IIT-Madras)](https://www.hticiitm.org/), KUKA, and [Coppelia Robotics]() as a 🤖 Robotics Intern.
+* Previously, I have worked at [HTIC(IIT-Madras)](https://www.hticiitm.org/), KUKA, and [Coppelia Robotics](https://www.coppeliarobotics.com/) as a 🤖 Robotics Intern.
 * I have a strong experience on frameworks like ROS, Gazebo, Ignition Gazebo, Coppelia Sim (formerly VRep).
 * My research interests includes 
   a. (Domain Randomisation and Agent-based Systems) in Reinforcement learning
@@ -33,7 +33,7 @@ I am Adwait. Welcome to my profile !
 
 
 <p align="left">
-<a href="https://github.com/ignition-robotics/ign-gazebo"rel="Ignition Gazebo"><img src="https://github.com/addy1997/addy1997/blob/master/3.png"/></a>
+<a href="https://github.com/ignitionrobotics/ign-gazebo"rel="Ignition Gazebo"><img src="https://github.com/addy1997/addy1997/blob/master/3.png"/></a>
 </p>
 
 ### Updates
