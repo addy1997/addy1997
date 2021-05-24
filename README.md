@@ -14,4 +14,3 @@ I am Adwait. Welcome to my profile !
 <a href="https://github.com/flexible-collision-library/fcl"rel="Flexible Collision Library"><img src="https://github.com/addy1997/addy1997/blob/master/6.png"/></a>
 </p>
 
-[![Adwait's github stats](https://github-readme-stats.vercel.app/api?username=addy1997)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addy1997)](https://github.com/anuraghazra/github-readme-stats)
