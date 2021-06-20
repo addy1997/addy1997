@@ -7,7 +7,5 @@ I actively contribute to these projects
 <a href="http://gazebosim.org/"rel="Gazebo"><img src="https://github.com/addy1997/addy1997/blob/master/2.png"/></a>
 <a href="https://github.com/openai/gym"rel="Open-AI Gym"><img src="https://github.com/addy1997/addy1997/blob/master/4.png"/></a>
 <a href="https://github.com/ignitionrobotics/ign-gazebo"rel="Ignition Gazebo"><img src="https://github.com/addy1997/addy1997/blob/master/3.png"/></a>
-<a href="https://github.com/PointCloudLibrary/pcl"rel="Point Cloud Library"><img src="https://github.com/addy1997/addy1997/blob/master/5.png"/></a>
-<a href="https://github.com/flexible-collision-library/fcl"rel="Flexible Collision Library"><img src="https://github.com/addy1997/addy1997/blob/master/6.png"/></a>
 </p>
 
