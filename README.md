@@ -4,7 +4,7 @@ Thanks for landing on my `Temporary`github profile!
 
 I am *Adwait P Naik*. Previously, I worked as a `software engineer` with a swedish start-up `Flox` on developing a simulated environment for testing `autonomous drones`. I was fortunate to spend some time at `KUKA` as a `student intern` and `IIT-Madras` as a `research intern` after completing my graduation from `University of Mumbai` in `2019`. 
 
-Currently, I am a graduate student pursuing `M.Sc.`, at the `James Watt School of Engineering`,`University of Glasgow`, `UK`.
+Currently, I am a graduate student pursuing `M.Sc.`, at the `James Watt School of Engineering`, `University of Glasgow`, `UK`.
 
 My research interest includes 
 * `3D Object reconstruction`
