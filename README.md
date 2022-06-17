@@ -1,16 +1,11 @@
 ### Hi 👋
 
-Thanks for landing on my `Temporary`github profile!
+I am Adwait. Currently, I am pursuing my master's in Robotics and AI at `University of Glasgow`.
 
-I am *Adwait P Naik*. Previously, I worked as a `software engineer` with a swedish start-up `Flox` on developing a simulated environment for testing `autonomous drones`. I was fortunate to spend some time at `KUKA` as a `student intern` and `IIT-Madras` as a `research intern` after completing my graduation from `University of Mumbai` in `2019`. 
-
-Currently, I am a graduate student pursuing `M.Sc.`, at the `James Watt School of Engineering`, `University of Glasgow`, `UK`.
-
-My research interest includes 
-* `3D Object reconstruction`
-* `Geometric inference`
-* `Machine learning`
-* `Robotics perception and vision`
+My research interests are:
+1. Geometric Computer Vision
+2. Natural Language Processing
+3. Robotics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=addy1997&theme=radical&show_icons=true" width="350"/>
