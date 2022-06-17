@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Adwait. Currently, I am pursuing my master's in Robotics and AI at `University of Glasgow`.
+I am Adwait. Currently, I am pursuing graduate studies in Robotics and AI at `University of Glasgow`.
 
 My research interests are:
 1. Geometric Computer Vision
