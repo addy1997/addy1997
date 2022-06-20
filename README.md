@@ -15,7 +15,7 @@ My research interests are:
 I ocassionaly contribute to these `amazing` libraries.
 
 <p>
-<a href="http://gazebosim.org/"rel="Golang"><img src="https://github.com/addy1997/addy1997/blob/master/1.png"/></a>
+<a href="https://go.dev/"rel="Golang"><img src="https://github.com/addy1997/addy1997/blob/master/1.png"/></a>
 <a href="http://gazebosim.org/"rel="Gazebo"><img src="https://github.com/addy1997/addy1997/blob/master/2.png"/></a>
 <a href="https://github.com/ignitionrobotics/ign-gazebo"rel="Ignition Gazebo"><img src="https://github.com/addy1997/addy1997/blob/master/3.png"/></a>
 <a href="https://github.com/openai/gym"rel="Open-AI Gym"><img src="https://github.com/addy1997/addy1997/blob/master/4.png"/></a>
