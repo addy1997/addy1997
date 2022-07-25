@@ -1,12 +1,5 @@
 ### Hi 👋
 
-I am Adwait. Currently, I am pursuing graduate studies in Robotics and AI at `University of Glasgow`.
-
-My research interests are:
-1. Geometric Computer Vision
-2. Natural Language Processing
-3. Robotics
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=addy1997&theme=radical&show_icons=true" width="350"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy1997&layout=compact&theme=radical" width="350"/>
